@@ -1,0 +1,16 @@
+{
+  "name": "mecha-jangles-v2",
+  "version": "1.0.0",
+  "description": "A discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "author": "Jangles#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1",
+    "gulp": "^4.0.2"
+  }
+}
